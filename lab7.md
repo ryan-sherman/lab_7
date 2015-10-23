@@ -9,10 +9,10 @@ Worked it out, used one of my table's computers
 
 My table partners did the other 4 projects for the table:
 
-Oscar Pullan
-Ian Huntress
-Tae Park
-Kevin Zhang
+Oscar Pullan,
+Ian Huntress,
+Tae Park,
+Kevin Zhang,
 
 Gource vids at
 https://plus.google.com/u/0/105803790461761986434/videos
